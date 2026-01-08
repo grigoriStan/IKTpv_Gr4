@@ -1,0 +1,68 @@
+Koodi hoidmine
+GitHub on koht, kus hoitakse projekte (repositooriume) koos kogu muudatuste ajalooga.
+
+
+
+
+Koostöö
+Mitu inimest saavad:
+
+töötada sama projekti kallal
+
+teha pull request’e
+
+anda tagasisidet (code review)
+
+arutada muudatusi
+
+
+
+
+Versioonihaldus
+Saab:
+
+vaadata, kes ja millal midagi muutis
+
+minna tagasi vanemate versioonide juurde
+
+töötada harudes (branches)
+
+
+
+
+Portfoolio arendajatele
+GitHubi kasutatakse sageli:
+
+CV osana
+
+oskuste näitamiseks tööandjatele
+
+Open source
+
+
+
+
+Miljonid avalikud projektid:
+
+saad kasutada teiste koodi
+
+saad ise panustada populaarsetesse projektidesse
+
+Automatiseerimine (CI/CD)
+GitHub Actions võimaldab:
+
+teste automaatselt käivitada
+
+projekte ehitada
+
+rakendusi üles laadida (deploy)
+
+
+
+
+Ülesanded ja dokumentatsioon
+Repos on:
+
+Issues (vead, ülesanded)
+
+README ja Wiki projektide kirjeldamiseks
